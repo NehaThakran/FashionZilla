@@ -44,8 +44,15 @@
     </section>
     <section>
     </section>
-    <section>
+    <section id = "map">
+      <script src = "js/map.js"></script>
+      <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6UbdAZsIMIrXwNMKHhb-A3p83brgRCCs&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
     </section>
+    <div class = "em">
+    </div>
     <?php
       require ("footer.php");
      ?>
