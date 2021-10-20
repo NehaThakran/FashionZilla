@@ -9,12 +9,11 @@
     src: url("../fonts/Brandon.ttf");
 }
 html, body{
-  width: 100%;
+  width: 1341px;
   height: 100%;
   background-color: rgba(0, 0, 0, 0);
   background-image: url("../img/bg.png");
-  background-blend-mode: overlay;
-  background-position: 50% 55%;
+  background-position: center;
   background-size: cover;
   background-attachment: fixed;
   scroll-behavior: smooth;
@@ -60,7 +59,7 @@ text
 }
 #story
 {
-  height: 720px;
+  height: 570px;
   background-image: linear-gradient( rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.5) ),url("../img/story-img.png");
   background-repeat: no-repeat;
   margin-left: -8px;
@@ -86,4 +85,17 @@ center
   margin-left: 410px;
   margin-right: 400px;
   line-height: 28.1333px;
+}
+#map
+{
+  width: 1349px;
+  height: 600px;
+  margin-left: -8px;
+}
+.em
+{
+  height: 200px;
+  background-color: #1b1b1b;
+  margin-left: -8px;
+  width: 1349px;
 }
