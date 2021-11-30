@@ -1,0 +1,78 @@
+@font-face
+{
+    font-family: brandon;
+    src: url("../fonts/Brandon.ttf");
+}
+body{
+  width: 100%;;
+  height: 100%;
+  background-image: url("../img/rs.jpg");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 2s;
+}
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+#container-banner
+{
+  height: 432.3px;
+  margin-bottom: 0px;
+  margin-left: 134.9px;
+  margin-right: 134.9px;
+  margin-top: 0px;
+  position: relative;
+  width: 1079.2px;
+}
+#register-banner{
+
+    border: #000000 solid 5px;
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    bottom: 15%;
+    top: 40%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: brandon;
+    letter-spacing: 5px;
+    padding-top: 15px;
+}
+
+#reg-btn {
+    border: 0;
+    padding: 18px 90px;
+    border-radius: 50px;
+    background: #000000;
+    cursor: pointer;
+
+    color: #ffffff;
+    font-weight: 800;
+    letter-spacing: 4px;
+    margin-top: 90px;
+
+    transition-duration: 0.5s;
+
+}
+
+#reg-btn:hover {
+    background: white;
+    color: black;
+}
+
+#reg-btn:focus {
+    outline: none;
+}
