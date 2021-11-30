@@ -8,10 +8,11 @@ This is an E-Commerce website  that aims to sell branded and trending products f
 2. Product details
 3. Price with product
 4. Search option
-5. Add to Cart feature
-6. Quantity of item to be purchased
-7. Payment Option
-8. Responsiveness
+5. Filtering of items by category
+6. Add to Cart feature
+7. Quantity of item to be purchased
+8. Payment Option
+9. Responsiveness
 
 ## Good to have features
 
