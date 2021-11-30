@@ -5,11 +5,11 @@
   <title>Home | Fashionzilla</title>
   <link rel="stylesheet" href="css/index.css" type="text/css">
   <link rel='stylesheet' href='css/bootstrap.min.css' type='text/css'>
-  <link rel='stylesheet' href='../business/css/themify-icons.css' type='text/css'>
-  <link rel='stylesheet' href='../business/css/owl.carousel.min.css' type='text/css'>
+  <link rel='stylesheet' href='css/themify-icons.css' type='text/css'>
+  <link rel='stylesheet' href='css/owl.carousel.min.css' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="../business/js/jquery.slicknav.js"></script>
-  <script src="../business/js/owl.carousel.min.js"></script>
+  <script src="js/jquery.slicknav.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.10.2/umd/popper.min.js" integrity="sha512-nnzkI2u2Dy6HMnzMIkh7CPd1KX445z38XIu4jG1jGw7x5tSL3VBjE44dY4ihMU1ijAQV930SPM12cCFrB18sVw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/5.5.2/bootbox.min.js" referrerpolicy="no-referrer"></script>
