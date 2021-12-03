@@ -1,7 +1,7 @@
 <?php
-
-define('DB_SERVER', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB','fz')
+$con = mysqli_connect("localhost","root", "", "fz");
+if($con === false)
+{
+   die("ERROR: Could not connect. " . mysqli_connect_error());
+}
 ?>

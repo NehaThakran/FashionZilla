@@ -14,7 +14,7 @@ footer
   align-items: center;
   padding: 40px 0;
   width: 100%;
-  margin-left: -8px;
+
   height: 80px;
 }
 .sm li
@@ -27,15 +27,24 @@ footer
 }
 .cr
 {
-  padding-top: 20px;
-  padding: 0px 1px 0 3%;
+  margin-left: 0;
+  padding: 10px 0 0 43px;
   font-family: avenir, sans-serif;
   font-size: 14px;
   font-stretch: 100%;
   font-weight: 400;
   display: inline-flex;
-  text-align: center;
+  text-align: right;
   overflow-wrap: break-word;
   color: #FFFFFF;
   vertical-align: baseline;
+}
+span
+{
+  text-decoration: none;
+}
+span:hover
+{
+  text-decoration: none;
+  color: #ffffff;
 }
